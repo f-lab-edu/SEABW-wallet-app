@@ -1,11 +1,11 @@
-# Simple Wallet App for SEABW(SouthEast Asia Blockchain Week)
+# Simple Wallet App for SEABW
 
-This project is made for [SEABW](https://seablockchainweek.org/) event.
+This project is made for [SEABW](https://seablockchainweek.org/)(SouthEast Asia Blockchain Week) event.
 
 ![image](https://github.com/JunnieLee/cosmo-RN/assets/33515577/753cbe05-bd53-4ade-85fa-c9eb8b0a4793)
 
-This wallet app contains QR codes for conference check-in and coupons available in near shopping malls, and provides information about the conference.
-
+This wallet app contains QR codes for conference check-ins and coupons usable in nearby shopping malls, and it provides information about the conference.
+ 
 ## Available Scripts
 
 In the project directory, you can run:
