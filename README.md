@@ -4,7 +4,7 @@ This project is made for [SEABW](https://seablockchainweek.org/)(SouthEast Asia 
 
 ![image](https://github.com/JunnieLee/cosmo-RN/assets/33515577/753cbe05-bd53-4ade-85fa-c9eb8b0a4793)
 
-This wallet app contains QR codes for conference check-ins and coupons usable in nearby shopping malls, and it provides information about the conference.
+This wallet app contains QR codes for conference check-ins and coupons usable in nearby shopping malls, and it also provides information about the conference.
  
 ## Available Scripts
 
